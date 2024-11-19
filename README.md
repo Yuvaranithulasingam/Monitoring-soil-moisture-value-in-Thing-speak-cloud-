@@ -149,7 +149,7 @@ void loop()
 }
 ```
 ## CIRCUIT DIAGRAM:
-
+![WhatsApp Image 2024-11-19 at 06 38 51_3df8be64](https://github.com/user-attachments/assets/a07d48f1-0181-4cee-9b2e-6469ff61834b)
 
 ## OUTPUT:
 ![soil_moisture](https://github.com/user-attachments/assets/105a23a9-75a5-45db-9d87-bc776d488c0b)
